@@ -1,8 +1,6 @@
-streamlit==1.26
-yfinance==0.2
-pandas==1.5
-numpy==1.23
-seaborn==0.13.2
-matplotlib==3.7
-
-scipy==1.13.1
+streamlit>=1.26
+pandas>=1.5
+numpy>=1.23
+yfinance>=0.2
+statsmodels>=0.13
+matplotlib>=3.7
